@@ -1,0 +1,569 @@
+,GDE_GEMEINDE_NR,GDE_NAME,GDE_CLEAN,ABJ_KANTON,multiple_cutbacks
+0,1,Aeugst am Albis,Aeugst am Albis,ZH,1.0
+1,2,Affoltern am Albis,Affoltern am Albis,ZH,1.0
+2,4,Hausen am Albis,Hausen am Albis,ZH,1.0
+3,6,Kappel am Albis,Kappel am Albis,ZH,2.0
+4,11,Ottenbach,Ottenbach,ZH,1.0
+5,39,Thalheim an der Thur,Thalheim an der Thur,ZH,1.0
+6,56,Embrach,Embrach,ZH,1.0
+7,58,Glattfelden,Glattfelden,ZH,1.0
+8,62,Kloten,Kloten,ZH,1.0
+9,67,Rafz,Rafz,ZH,1.0
+10,71,Wil (ZH),Wil,ZH,1.0
+11,81,Bachs,Bachs,ZH,1.0
+12,85,Dänikon,Dänikon,ZH,1.0
+13,88,Neerach,Neerach,ZH,1.0
+14,89,Niederglatt,Niederglatt,ZH,1.0
+15,91,Niederweningen,Niederweningen,ZH,2.0
+16,93,Oberweningen,Oberweningen,ZH,1.0
+17,96,Regensdorf,Regensdorf,ZH,1.0
+18,100,Stadel,Stadel,ZH,1.0
+19,101,Steinmaur,Steinmaur,ZH,2.0
+20,111,Bäretswil,Bäretswil,ZH,1.0
+21,112,Bubikon,Bubikon,ZH,1.0
+22,114,Fischenthal,Fischenthal,ZH,1.0
+23,117,Hinwil,Hinwil,ZH,2.0
+24,121,Wetzikon (ZH),Wetzikon,ZH,1.0
+25,153,Hombrechtikon,Hombrechtikon,ZH,3.0
+26,159,Uetikon am See,Uetikon am See,ZH,1.0
+27,172,Fehraltorf,Fehraltorf,ZH,2.0
+28,173,Hittnau,Hittnau,ZH,1.0
+29,177,Pfäffikon,Pfäffikon,ZH,1.0
+30,178,Russikon,Russikon,ZH,1.0
+31,196,Mönchaltorf,Mönchaltorf,ZH,1.0
+32,198,Uster,Uster,ZH,1.0
+33,214,Dägerlen,Dägerlen,ZH,3.0
+34,219,Elsau,Elsau,ZH,1.0
+35,220,Hagenbuch,Hagenbuch,ZH,1.0
+36,223,Neftenbach,Neftenbach,ZH,1.0
+37,230,Winterthur,Winterthur,ZH,3.0
+38,231,Zell (ZH),Zell,ZH,1.0
+39,250,Urdorf,Urdorf,ZH,1.0
+40,295,Horgen,Horgen,ZH,1.0
+41,297,Bauma,Bauma,ZH,3.0
+42,298,Wiesendangen,Wiesendangen,ZH,2.0
+43,303,Grossaffoltern,Grossaffoltern,BE,4.0
+44,304,Kallnach,Kallnach,BE,3.0
+45,305,Kappelen,Kappelen,BE,1.0
+46,306,Lyss,Lyss,BE,1.0
+47,307,Meikirch,Meikirch,BE,3.0
+48,309,Radelfingen,Radelfingen,BE,1.0
+49,310,Rapperswil (BE),Rapperswil,BE,3.0
+50,311,Schüpfen,Schüpfen,BE,3.0
+51,312,Seedorf (BE),Seedorf,BE,1.0
+52,322,Auswil,Auswil,BE,1.0
+53,325,Busswil bei Melchnau,Busswil bei Melchnau,BE,1.0
+54,326,Gondiswil,Gondiswil,BE,4.0
+55,329,Langenthal,Langenthal,BE,1.0
+56,331,Lotzwil,Lotzwil,BE,2.0
+57,332,Madiswil,Madiswil,BE,2.0
+58,333,Melchnau,Melchnau,BE,2.0
+59,335,Oeschenbach,Oeschenbach,BE,1.0
+60,339,Rohrbachgraben,Rohrbachgraben,BE,3.0
+61,342,Thunstetten,Thunstetten,BE,1.0
+62,351,Bern,Bern,BE,1.0
+63,352,Bolligen,Bolligen,BE,2.0
+64,354,Kirchlindach,Kirchlindach,BE,2.0
+65,355,Köniz,Köniz,BE,4.0
+66,357,Oberbalm,Oberbalm,BE,1.0
+67,358,Stettlen,Stettlen,BE,1.0
+68,359,Vechigen,Vechigen,BE,4.0
+69,360,Wohlen bei Bern,Wohlen bei Bern,BE,2.0
+70,361,Zollikofen,Zollikofen,BE,1.0
+71,383,Büren an der Aare,Büren an der Aare,BE,2.0
+72,388,Leuzigen,Leuzigen,BE,1.0
+73,391,Oberwil bei Büren,Oberwil bei Büren,BE,1.0
+74,393,Rüti bei Büren,Rüti bei Büren,BE,1.0
+75,405,Ersigen,Ersigen,BE,2.0
+76,406,Hasle bei Burgdorf,Hasle bei Burgdorf,BE,1.0
+77,407,Heimiswil,Heimiswil,BE,1.0
+78,409,Hindelbank,Hindelbank,BE,1.0
+79,413,Koppigen,Koppigen,BE,1.0
+80,416,Mötschwil,Mötschwil,BE,2.0
+81,418,Oberburg,Oberburg,BE,1.0
+82,424,Wynigen,Wynigen,BE,5.0
+83,433,Cortébert,Cortébert,BE,1.0
+84,438,Orvin,Orvin,BE,1.0
+85,441,Renan (BE),Renan,BE,1.0
+86,442,Romont (BE),Romont,BE,1.0
+87,445,Sonvilier,Sonvilier,BE,1.0
+88,446,Tramelan,Tramelan,BE,1.0
+89,494,Gals,Gals,BE,1.0
+90,540,Jegenstorf,Jegenstorf,BE,2.0
+91,541,Iffwil,Iffwil,BE,1.0
+92,543,Mattstetten,Mattstetten,BE,1.0
+93,552,Utzenstorf,Utzenstorf,BE,2.0
+94,561,Adelboden,Adelboden,BE,3.0
+95,563,Frutigen,Frutigen,BE,8.0
+96,564,Kandergrund,Kandergrund,BE,6.0
+97,567,Reichenbach im Kandertal,Reichenbach im Kandertal,BE,3.0
+98,571,Beatenberg,Beatenberg,BE,1.0
+99,573,Brienz (BE),Brienz,BE,3.0
+100,575,Därligen,Därligen,BE,1.0
+101,576,Grindelwald,Grindelwald,BE,5.0
+102,577,Gsteigwiler,Gsteigwiler,BE,1.0
+103,579,Habkern,Habkern,BE,2.0
+104,582,Iseltwald,Iseltwald,BE,1.0
+105,585,Leissigen,Leissigen,BE,2.0
+106,587,Matten bei Interlaken,Matten bei Interlaken,BE,1.0
+107,593,Unterseen,Unterseen,BE,1.0
+108,602,Arni (BE),Arni,BE,1.0
+109,603,Biglen,Biglen,BE,1.0
+110,605,Bowil,Bowil,BE,3.0
+111,608,Grosshöchstetten,Grosshöchstetten,BE,3.0
+112,609,Häutligen,Häutligen,BE,2.0
+113,611,Kiesen,Kiesen,BE,1.0
+114,612,Konolfingen,Konolfingen,BE,2.0
+115,613,Landiswil,Landiswil,BE,2.0
+116,614,Linden,Linden,BE,4.0
+117,615,Mirchel,Mirchel,BE,2.0
+118,616,Münsingen,Münsingen,BE,3.0
+119,617,Niederhünigen,Niederhünigen,BE,3.0
+120,619,Oberdiessbach,Oberdiessbach,BE,1.0
+121,620,Oberthal,Oberthal,BE,3.0
+122,626,Walkringen,Walkringen,BE,3.0
+123,627,Worb,Worb,BE,2.0
+124,628,Zäziwil,Zäziwil,BE,1.0
+125,629,Oberhünigen,Oberhünigen,BE,2.0
+126,632,Wichtrach,Wichtrach,BE,1.0
+127,665,Gurbrü,Gurbrü,BE,1.0
+128,669,Münchenwiler,Münchenwiler,BE,1.0
+129,670,Neuenegg,Neuenegg,BE,1.0
+130,671,Wileroltigen,Wileroltigen,BE,2.0
+131,683,Champoz,Champoz,BE,1.0
+132,703,Reconvilier,Reconvilier,BE,1.0
+133,708,Schelten,Schelten,BE,1.0
+134,709,Seehof,Seehof,BE,1.0
+135,713,Tavannes,Tavannes,BE,1.0
+136,738,Jens,Jens,BE,1.0
+137,754,Walperswil,Walperswil,BE,2.0
+138,756,Twann-Tüscherz,Twann-Tüscherz,BE,1.0
+139,761,Därstetten,Därstetten,BE,1.0
+140,762,Diemtigen,Diemtigen,BE,8.0
+141,766,Oberwil im Simmental,Oberwil im Simmental,BE,2.0
+142,767,Reutigen,Reutigen,BE,1.0
+143,768,Spiez,Spiez,BE,1.0
+144,769,Wimmis,Wimmis,BE,4.0
+145,783,Hasliberg,Hasliberg,BE,3.0
+146,784,Innertkirchen,Innertkirchen,BE,7.0
+147,785,Meiringen,Meiringen,BE,1.0
+148,791,Boltigen,Boltigen,BE,2.0
+149,792,Lenk,Lenk,BE,2.0
+150,793,St. Stephan,St. Stephan,BE,1.0
+151,794,Zweisimmen,Zweisimmen,BE,1.0
+152,841,Gsteig,Gsteig,BE,1.0
+153,842,Lauenen,Lauenen,BE,1.0
+154,843,Saanen,Saanen,BE,5.0
+155,852,Guggisberg,Guggisberg,BE,6.0
+156,853,Rüschegg,Rüschegg,BE,5.0
+157,855,Schwarzenburg,Schwarzenburg,BE,12.0
+158,861,Belp,Belp,BE,2.0
+159,863,Burgistein,Burgistein,BE,4.0
+160,867,Gurzelen,Gurzelen,BE,1.0
+161,870,Kehrsatz,Kehrsatz,BE,3.0
+162,872,Kirchdorf (BE),Kirchdorf,BE,2.0
+163,877,Niedermuhlern,Niedermuhlern,BE,2.0
+164,879,Riggisberg,Riggisberg,BE,2.0
+165,880,Rüeggisberg,Rüeggisberg,BE,4.0
+166,881,Rümligen,Rümligen,BE,2.0
+167,883,Seftigen,Seftigen,BE,1.0
+168,888,Wald (BE),Wald,BE,1.0
+169,901,Eggiwil,Eggiwil,BE,11.0
+170,902,Langnau im Emmental,Langnau im Emmental,BE,4.0
+171,903,Lauperswil,Lauperswil,BE,3.0
+172,904,Röthenbach im Emmental,Röthenbach im Emmental,BE,4.0
+173,905,Rüderswil,Rüderswil,BE,1.0
+174,906,Schangnau,Schangnau,BE,1.0
+175,907,Signau,Signau,BE,3.0
+176,908,Trub,Trub,BE,5.0
+177,921,Amsoldingen,Amsoldingen,BE,1.0
+178,922,Blumenstein,Blumenstein,BE,1.0
+179,923,Buchholterberg,Buchholterberg,BE,3.0
+180,924,Eriz,Eriz,BE,1.0
+181,925,Fahrni,Fahrni,BE,2.0
+182,927,Heiligenschwendi,Heiligenschwendi,BE,1.0
+183,931,Homberg,Homberg,BE,2.0
+184,932,Horrenbach-Buchen,Horrenbach-Buchen,BE,3.0
+185,936,Pohlern,Pohlern,BE,1.0
+186,937,Schwendibach,Schwendibach,BE,1.0
+187,938,Sigriswil,Sigriswil,BE,4.0
+188,940,Teuffenthal (BE),Teuffenthal,BE,1.0
+189,941,Thierachern,Thierachern,BE,1.0
+190,942,Thun,Thun,BE,1.0
+191,946,Wachseldorn,Wachseldorn,BE,1.0
+192,948,Forst-Längenbühl,Forst-Längenbühl,BE,1.0
+193,951,Affoltern im Emmental,Affoltern im Emmental,BE,5.0
+194,952,Dürrenroth,Dürrenroth,BE,2.0
+195,953,Eriswil,Eriswil,BE,3.0
+196,954,Huttwil,Huttwil,BE,1.0
+197,955,Lützelflüh,Lützelflüh,BE,4.0
+198,956,Rüegsau,Rüegsau,BE,2.0
+199,957,Sumiswald,Sumiswald,BE,5.0
+200,958,Trachselwald,Trachselwald,BE,3.0
+201,959,Walterswil (BE),Walterswil,BE,3.0
+202,960,Wyssachen,Wyssachen,BE,2.0
+203,971,Attiswil,Attiswil,BE,1.0
+204,973,Bettenhausen,Bettenhausen,BE,1.0
+205,975,Farnern,Farnern,BE,1.0
+206,979,Herzogenbuchsee,Herzogenbuchsee,BE,1.0
+207,981,Niederbipp,Niederbipp,BE,1.0
+208,985,Ochlenberg,Ochlenberg,BE,2.0
+209,988,Seeberg,Seeberg,BE,3.0
+210,989,Thörigen,Thörigen,BE,2.0
+211,995,Wiedlisbach,Wiedlisbach,BE,1.0
+212,1002,Entlebuch,Entlebuch,LU,1.0
+213,1004,Flühli,Flühli,LU,1.0
+214,1005,Hasle (LU),Hasle,LU,1.0
+215,1007,Romoos,Romoos,LU,1.0
+216,1022,Altwis,Altwis,LU,1.0
+217,1026,Eschenbach (LU),Eschenbach,LU,1.0
+218,1030,Hitzkirch,Hitzkirch,LU,3.0
+219,1032,Hohenrain,Hohenrain,LU,7.0
+220,1037,Rain,Rain,LU,3.0
+221,1039,Römerswil,Römerswil,LU,1.0
+222,1040,Rothenburg,Rothenburg,LU,1.0
+223,1059,Kriens,Kriens,LU,1.0
+224,1062,Malters,Malters,LU,1.0
+225,1064,Meierskappel,Meierskappel,LU,1.0
+226,1069,Weggis,Weggis,LU,1.0
+227,1081,Beromünster,Beromünster,LU,2.0
+228,1083,Buttisholz,Buttisholz,LU,3.0
+229,1085,Geuensee,Geuensee,LU,2.0
+230,1093,Neuenkirch,Neuenkirch,LU,1.0
+231,1094,Nottwil,Nottwil,LU,1.0
+232,1102,Sempach,Sempach,LU,1.0
+233,1104,Triengen,Triengen,LU,1.0
+234,1129,Fischbach,Fischbach,LU,1.0
+235,1131,Grossdietwil,Grossdietwil,LU,1.0
+236,1132,Hergiswil bei Willisau,Hergiswil bei Willisau,LU,1.0
+237,1135,Luthern,Luthern,LU,1.0
+238,1136,Menznau,Menznau,LU,2.0
+239,1139,Pfaffnau,Pfaffnau,LU,1.0
+240,1142,Roggliswil,Roggliswil,LU,1.0
+241,1145,Ufhusen,Ufhusen,LU,1.0
+242,1151,Willisau,Willisau,LU,3.0
+243,1202,Andermatt,Andermatt,UR,1.0
+244,1203,Attinghausen,Attinghausen,UR,1.0
+245,1209,Gurtnellen,Gurtnellen,UR,1.0
+246,1215,Seelisberg,Seelisberg,UR,2.0
+247,1301,Einsiedeln,Einsiedeln,SZ,5.0
+248,1321,Feusisberg,Feusisberg,SZ,1.0
+249,1331,Küssnacht (SZ),Küssnacht,SZ,1.0
+250,1342,Galgenen,Galgenen,SZ,1.0
+251,1362,Arth,Arth,SZ,1.0
+252,1364,Ingenbohl,Ingenbohl,SZ,1.0
+253,1367,Muotathal,Muotathal,SZ,1.0
+254,1371,Sattel,Sattel,SZ,2.0
+255,1372,Schwyz,Schwyz,SZ,1.0
+256,1374,Steinerberg,Steinerberg,SZ,1.0
+257,1401,Alpnach,Alpnach,OW,2.0
+258,1404,Kerns,Kerns,OW,1.0
+259,1405,Lungern,Lungern,OW,1.0
+260,1406,Sachseln,Sachseln,OW,2.0
+261,1407,Sarnen,Sarnen,OW,3.0
+262,1501,Beckenried,Beckenried,NW,1.0
+263,1502,Buochs,Buochs,NW,1.0
+264,1511,Wolfenschiessen,Wolfenschiessen,NW,1.0
+265,1630,Glarus Nord,Glarus Nord,GL,4.0
+266,2011,Cugy (FR),Cugy,FR,1.0
+267,2022,Gletterens,Gletterens,FR,1.0
+268,2054,Estavayer,Estavayer,FR,1.0
+269,2055,Cheyres-Châbles,Cheyres-Châbles,FR,2.0
+270,2061,Auboranges,Auboranges,FR,1.0
+271,2072,Ecublens (FR),Ecublens,FR,1.0
+272,2087,Mézières (FR),Mézières,FR,1.0
+273,2113,Vuisternens-devant-Romont,Vuisternens-devant-Romont,FR,4.0
+274,2121,Haut-Intyamon,Haut-Intyamon,FR,1.0
+275,2137,Hauteville,Hauteville,FR,1.0
+276,2138,Jaun,Jaun,FR,1.0
+277,2147,Pont-la-Ville,Pont-la-Ville,FR,1.0
+278,2160,Vuadens,Vuadens,FR,2.0
+279,2175,Belfaux,Belfaux,FR,1.0
+280,2200,Grolley,Grolley,FR,1.0
+281,2226,Treyvaux,Treyvaux,FR,1.0
+282,2259,Galmiz,Galmiz,FR,1.0
+283,2262,Gurmels,Gurmels,FR,2.0
+284,2275,Murten,Murten,FR,1.0
+285,2291,Alterswil,Alterswil,FR,1.0
+286,2293,Düdingen,Düdingen,FR,1.0
+287,2296,Heitenried,Heitenried,FR,1.0
+288,2299,Plaffeien,Plaffeien,FR,1.0
+289,2304,St. Ursen,St. Ursen,FR,1.0
+290,2308,Ueberstorf,Ueberstorf,FR,1.0
+291,2323,Bossonnens,Bossonnens,FR,1.0
+292,2325,Châtel-Saint-Denis,Châtel-Saint-Denis,FR,1.0
+293,2328,Granges (Veveyse),Granges,FR,1.0
+294,2333,Remaufens,Remaufens,FR,1.0
+295,2335,Saint-Martin (FR),Saint-Martin,FR,1.0
+296,2427,Matzendorf,Matzendorf,SO,1.0
+297,2474,Gempen,Gempen,SO,1.0
+298,2475,Hochwald,Hochwald,SO,1.0
+299,2478,Nuglar-St. Pantaleon,Nuglar-St. Pantaleon,SO,1.0
+300,2492,Kienberg,Kienberg,SO,1.0
+301,2493,Lostorf,Lostorf,SO,1.0
+302,2499,Stüsslingen,Stüsslingen,SO,1.0
+303,2516,Deitingen,Deitingen,SO,1.0
+304,2543,Bettlach,Bettlach,SO,1.0
+305,2546,Grenchen,Grenchen,SO,1.0
+306,2555,Rüttenen,Rüttenen,SO,1.0
+307,2572,Däniken,Däniken,SO,1.0
+308,2575,Fulenbach,Fulenbach,SO,1.0
+309,2585,Walterswil (SO),Walterswil,SO,1.0
+310,2611,Bärschwil,Bärschwil,SO,1.0
+311,2855,Oltingen,Oltingen,BL,1.0
+312,2887,Lampenberg,Lampenberg,BL,1.0
+313,2952,Schleitheim,Schleitheim,SH,1.0
+314,3001,Herisau,Herisau,AR,3.0
+315,3002,Hundwil,Hundwil,AR,2.0
+316,3005,Stein (AR),Stein,AR,1.0
+317,3006,Urnäsch,Urnäsch,AR,1.0
+318,3022,Gais,Gais,AR,1.0
+319,3031,Grub (AR),Grub,AR,1.0
+320,3035,Reute (AR),Reute,AR,1.0
+321,3038,Wolfhalden,Wolfhalden,AR,1.0
+322,3101,Appenzell,Appenzell,AI,1.0
+323,3104,Schlatt-Haslen,Schlatt-Haslen,AI,2.0
+324,3111,Oberegg,Oberegg,AI,1.0
+325,3202,Muolen,Muolen,SG,1.0
+326,3203,St. Gallen,St. Gallen,SG,1.0
+327,3204,Wittenbach,Wittenbach,SG,2.0
+328,3213,Goldach,Goldach,SG,1.0
+329,3233,Berneck,Berneck,SG,1.0
+330,3234,Diepoldsau,Diepoldsau,SG,1.0
+331,3251,Altstätten,Altstätten,SG,1.0
+332,3253,Marbach (SG),Marbach,SG,2.0
+333,3255,Rebstein,Rebstein,SG,1.0
+334,3272,Gams,Gams,SG,1.0
+335,3273,Grabs,Grabs,SG,2.0
+336,3274,Sennwald,Sennwald,SG,2.0
+337,3292,Flums,Flums,SG,2.0
+338,3293,Mels,Mels,SG,2.0
+339,3313,Kaltbrunn,Kaltbrunn,SG,2.0
+340,3315,Schänis,Schänis,SG,2.0
+341,3339,Uznach,Uznach,SG,1.0
+342,3360,Nesslau,Nesslau,SG,2.0
+343,3372,Hemberg,Hemberg,SG,1.0
+344,3378,Neckertal,Neckertal,SG,1.0
+345,3379,Wattwil,Wattwil,SG,1.0
+346,3392,Kirchberg (SG),Kirchberg,SG,1.0
+347,3423,Niederhelfenschwil,Niederhelfenschwil,SG,1.0
+348,3506,Vaz/Obervaz,Vaz/Obervaz,GR,6.0
+349,3542,Albula/Alvra,Albula/Alvra,GR,1.0
+350,3543,Surses,Surses,GR,16.0
+351,3544,Bergün Filisur,Bergün Filisur,GR,2.0
+352,3551,Brusio,Brusio,GR,3.0
+353,3561,Poschiavo,Poschiavo,GR,7.0
+354,3572,Falera,Falera,GR,1.0
+355,3575,Laax,Laax,GR,2.0
+356,3581,Sagogn,Sagogn,GR,1.0
+357,3582,Schluein,Schluein,GR,1.0
+358,3603,Vals,Vals,GR,4.0
+359,3618,Lumnezia,Lumnezia,GR,2.0
+360,3619,Ilanz/Glion,Ilanz/Glion,GR,7.0
+361,3638,Scharans,Scharans,GR,1.0
+362,3661,Cazis,Cazis,GR,6.0
+363,3663,Masein,Masein,GR,1.0
+364,3668,Thusis,Thusis,GR,1.0
+365,3669,Tschappina,Tschappina,GR,2.0
+366,3670,Urmein,Urmein,GR,1.0
+367,3672,Safiental,Safiental,GR,1.0
+368,3673,Domleschg,Domleschg,GR,5.0
+369,3681,Avers,Avers,GR,1.0
+370,3695,Sufers,Sufers,GR,1.0
+371,3703,Casti-Wergenstein,Casti-Wergenstein,GR,2.0
+372,3705,Donat,Donat,GR,1.0
+373,3712,Zillis-Reischen,Zillis-Reischen,GR,2.0
+374,3714,Rheinwald,Rheinwald,GR,4.0
+375,3721,Bonaduz,Bonaduz,GR,1.0
+376,3722,Domat/Ems,Domat/Ems,GR,6.0
+377,3723,Rhäzüns,Rhäzüns,GR,1.0
+378,3732,Flims,Flims,GR,1.0
+379,3734,Trin,Trin,GR,2.0
+380,3746,Zernez,Zernez,GR,3.0
+381,3752,Samnaun,Samnaun,GR,6.0
+382,3762,Scuol,Scuol,GR,6.0
+383,3764,Valsot,Valsot,GR,1.0
+384,3781,Bever,Bever,GR,1.0
+385,3785,La Punt-Chamues-ch,La Punt-Chamues-ch,GR,1.0
+386,3786,Samedan,Samedan,GR,2.0
+387,3789,Sils im Engadin/Segl,Sils im Engadin/Segl,GR,1.0
+388,3791,Zuoz,Zuoz,GR,2.0
+389,3792,Bregaglia,Bregaglia,GR,3.0
+390,3821,Lostallo,Lostallo,GR,1.0
+391,3822,Mesocco,Mesocco,GR,2.0
+392,3823,Soazza,Soazza,GR,3.0
+393,3831,Cama,Cama,GR,1.0
+394,3832,Grono,Grono,GR,2.0
+395,3834,Roveredo (GR),Roveredo,GR,1.0
+396,3835,San Vittore,San Vittore,GR,2.0
+397,3837,Calanca,Calanca,GR,1.0
+398,3847,Val Müstair,Val Müstair,GR,1.0
+399,3851,Davos,Davos,GR,6.0
+400,3861,Fideris,Fideris,GR,2.0
+401,3862,Furna,Furna,GR,2.0
+402,3863,Jenaz,Jenaz,GR,5.0
+403,3871,Klosters-Serneus,Klosters-Serneus,GR,6.0
+404,3891,Luzein,Luzein,GR,6.0
+405,3901,Chur,Chur,GR,2.0
+406,3911,Churwalden,Churwalden,GR,2.0
+407,3921,Arosa,Arosa,GR,11.0
+408,3926,Maladers,Maladers,GR,1.0
+409,3941,Haldenstein,Haldenstein,GR,1.0
+410,3945,Trimmis,Trimmis,GR,2.0
+411,3947,Zizers,Zizers,GR,3.0
+412,3951,Fläsch,Fläsch,GR,4.0
+413,3952,Jenins,Jenins,GR,4.0
+414,3953,Maienfeld,Maienfeld,GR,2.0
+415,3954,Malans,Malans,GR,2.0
+416,3955,Landquart,Landquart,GR,1.0
+417,3961,Grüsch,Grüsch,GR,4.0
+418,3962,Schiers,Schiers,GR,2.0
+419,3972,Seewis im Prättigau,Seewis im Prättigau,GR,6.0
+420,3981,Breil/Brigels,Breil/Brigels,GR,5.0
+421,3982,Disentis/Mustér,Disentis/Mustér,GR,6.0
+422,3985,Sumvitg,Sumvitg,GR,2.0
+423,3986,Tujetsch,Tujetsch,GR,3.0
+424,3987,Trun,Trun,GR,1.0
+425,3988,Obersaxen Mundaun,Obersaxen Mundaun,GR,6.0
+426,4004,Densbüren,Densbüren,AG,1.0
+427,4028,Freienwil,Freienwil,AG,1.0
+428,4031,Künten,Künten,AG,1.0
+429,4039,Remetschwil,Remetschwil,AG,1.0
+430,4040,Spreitenbach,Spreitenbach,AG,1.0
+431,4044,Untersiggenthal,Untersiggenthal,AG,1.0
+432,4045,Wettingen,Wettingen,AG,1.0
+433,4063,Bremgarten (AG),Bremgarten,AG,1.0
+434,4067,Fischbach-Göslikon,Fischbach-Göslikon,AG,1.0
+435,4071,Jonen,Jonen,AG,1.0
+436,4075,Rudolfstetten-Friedlisberg,Rudolfstetten-Friedlisberg,AG,1.0
+437,4076,Sarmenstorf,Sarmenstorf,AG,1.0
+438,4082,Wohlen (AG),Wohlen,AG,1.0
+439,4094,Bözen,Bözen,AG,1.0
+440,4105,Mandach,Mandach,AG,2.0
+441,4117,Thalheim (AG),Thalheim,AG,1.0
+442,4124,Bözberg,Bözberg,AG,1.0
+443,4135,Gontenschwil,Gontenschwil,AG,1.0
+444,4136,Holziken,Holziken,AG,1.0
+445,4143,Schmiedrued,Schmiedrued,AG,1.0
+446,4145,Teufenthal (AG),Teufenthal,AG,1.0
+447,4146,Unterkulm,Unterkulm,AG,1.0
+448,4147,Zetzwil,Zetzwil,AG,1.0
+449,4166,Herznach,Herznach,AG,2.0
+450,4181,Wittnau,Wittnau,AG,1.0
+451,4183,Zeihen,Zeihen,AG,2.0
+452,4208,Seengen,Seengen,AG,2.0
+453,4224,Beinwil (Freiamt),Beinwil,AG,1.0
+454,4228,Boswil,Boswil,AG,2.0
+455,4231,Dietwil,Dietwil,AG,1.0
+456,4232,Geltwil,Geltwil,AG,1.0
+457,4236,Muri (AG),Muri,AG,1.0
+458,4239,Sins,Sins,AG,2.0
+459,4240,Waltenschwil,Waltenschwil,AG,1.0
+460,4254,Möhlin,Möhlin,AG,2.0
+461,4262,Wegenstetten,Wegenstetten,AG,1.0
+462,4264,Zuzgen,Zuzgen,AG,1.0
+463,4280,Oftringen,Oftringen,AG,1.0
+464,4282,Rothrist,Rothrist,AG,1.0
+465,4283,Safenwil,Safenwil,AG,1.0
+466,4286,Uerkheim,Uerkheim,AG,1.0
+467,4287,Vordemwald,Vordemwald,AG,1.0
+468,4304,Döttingen,Döttingen,AG,1.0
+469,4307,Full-Reuenthal,Full-Reuenthal,AG,1.0
+470,4312,Lengnau (AG),Lengnau,AG,1.0
+471,4313,Leuggern,Leuggern,AG,1.0
+472,4319,Siglistorf,Siglistorf,AG,1.0
+473,4406,Dozwil,Dozwil,TG,1.0
+474,4411,Egnach,Egnach,TG,1.0
+475,4416,Hefenhofen,Hefenhofen,TG,2.0
+476,4441,Salmsach,Salmsach,TG,1.0
+477,4446,Sommeri,Sommeri,TG,3.0
+478,4476,Erlen,Erlen,TG,3.0
+479,4486,Hauptwil-Gottshaus,Hauptwil-Gottshaus,TG,2.0
+480,4495,Hohentannen,Hohentannen,TG,2.0
+481,4501,Kradolf-Schönenberg,Kradolf-Schönenberg,TG,1.0
+482,4536,Basadingen-Schlattingen,Basadingen-Schlattingen,TG,2.0
+483,4546,Schlatt (TG),Schlatt,TG,2.0
+484,4551,Aadorf,Aadorf,TG,2.0
+485,4571,Gachnang,Gachnang,TG,1.0
+486,4606,Stettfurt,Stettfurt,TG,1.0
+487,4621,Warth-Weiningen,Warth-Weiningen,TG,3.0
+488,4641,Altnau,Altnau,TG,1.0
+489,4666,Kemmental,Kemmental,TG,4.0
+490,4681,Langrickenbach,Langrickenbach,TG,2.0
+491,4696,Tägerwilen,Tägerwilen,TG,1.0
+492,4711,Affeltrangen,Affeltrangen,TG,1.0
+493,4723,Braunau,Braunau,TG,1.0
+494,4724,Eschlikon,Eschlikon,TG,1.0
+495,4776,Tobel-Tägerschen,Tobel-Tägerschen,TG,1.0
+496,4816,Homburg,Homburg,TG,1.0
+497,4821,Hüttwilen,Hüttwilen,TG,1.0
+498,4831,Müllheim,Müllheim,TG,1.0
+499,4841,Pfyn,Pfyn,TG,1.0
+500,4851,Salenstein,Salenstein,TG,1.0
+501,4881,Amlikon-Bissegg,Amlikon-Bissegg,TG,3.0
+502,4891,Berg (TG),Berg,TG,1.0
+503,4901,Birwinken,Birwinken,TG,1.0
+504,4921,Bussnang,Bussnang,TG,1.0
+505,4951,Wigoltingen,Wigoltingen,TG,2.0
+506,5050,Serravalle,Serravalle,TI,1.0
+507,5401,Aigle,Aigle,VD,1.0
+508,5407,Leysin,Leysin,VD,1.0
+509,5408,Noville,Noville,VD,1.0
+510,5409,Ollon,Ollon,VD,1.0
+511,5428,Gimel,Gimel,VD,1.0
+512,5435,Saint-Livres,Saint-Livres,VD,1.0
+513,5484,Gollion,Gollion,VD,1.0
+514,5537,Villars-le-Terroir,Villars-le-Terroir,VD,1.0
+515,5565,Onnens (VD),Onnens,VD,1.0
+516,5568,Sainte-Croix,Sainte-Croix,VD,1.0
+517,5611,Savigny,Savigny,VD,1.0
+518,5674,Lovatens,Lovatens,VD,1.0
+519,5805,Oron,Oron,VD,1.0
+520,5813,Chevroux,Chevroux,VD,1.0
+521,5831,Valbroye,Valbroye,VD,1.0
+522,5881,Blonay,Blonay,VD,1.0
+523,5882,Chardonne,Chardonne,VD,1.0
+524,6008,Ried-Brig,Ried-Brig,VS,1.0
+525,6021,Ardon,Ardon,VS,1.0
+526,6022,Chamoson,Chamoson,VS,1.0
+527,6023,Conthey,Conthey,VS,1.0
+528,6024,Nendaz,Nendaz,VS,5.0
+529,6025,Vétroz,Vétroz,VS,1.0
+530,6031,Bagnes,Bagnes,VS,5.0
+531,6036,Vollèges,Vollèges,VS,1.0
+532,6082,Ayent,Ayent,VS,1.0
+533,6083,Evolène,Evolène,VS,2.0
+534,6111,Leukerbad,Leukerbad,VS,2.0
+535,6113,Salgesch,Salgesch,VS,1.0
+536,6116,Varen,Varen,VS,1.0
+537,6117,Guttet-Feschel,Guttet-Feschel,VS,1.0
+538,6118,Gampel-Bratsch,Gampel-Bratsch,VS,2.0
+539,6119,Turtmann-Unterems,Turtmann-Unterems,VS,1.0
+540,6133,Fully,Fully,VS,2.0
+541,6135,Leytron,Leytron,VS,2.0
+542,6136,Martigny,Martigny,VS,5.0
+543,6137,Martigny-Combe,Martigny-Combe,VS,1.0
+544,6140,Saillon,Saillon,VS,1.0
+545,6141,Saxon,Saxon,VS,2.0
+546,6191,Ausserberg,Ausserberg,VS,1.0
+547,6198,Niedergesteln,Niedergesteln,VS,1.0
+548,6235,Chippis,Chippis,VS,1.0
+549,6238,Grône,Grône,VS,1.0
+550,6248,Sierre,Sierre,VS,1.0
+551,6249,Venthône,Venthône,VS,1.0
+552,6253,Crans-Montana,Crans-Montana,VS,1.0
+553,6265,Savièse,Savièse,VS,2.0
+554,6266,Sion,Sion,VS,3.0
+555,6289,Saas-Balen,Saas-Balen,VS,1.0
+556,6291,Saas-Grund,Saas-Grund,VS,1.0
+557,6292,St. Niklaus,St. Niklaus,VS,1.0
+558,6298,Visperterminen,Visperterminen,VS,5.0
+559,6421,La Chaux-de-Fonds,La Chaux-de-Fonds,NE,1.0
+560,6422,Les Planchettes,Les Planchettes,NE,1.0
+561,6423,La Sagne,La Sagne,NE,1.0
+562,6431,Les Brenets,Les Brenets,NE,1.0
+563,6512,Val-de-Travers,Val-de-Travers,NE,3.0
+564,6607,Bernex,Bernex,GE,3.0
+565,6639,Soral,Soral,GE,1.0
+566,6712,Develier,Develier,JU,1.0
+567,6778,Bure,Bure,JU,1.0
