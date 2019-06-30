@@ -10,12 +10,15 @@ In den vorliegenden Notebooks sind die relevanten Ausschnitte der Analyse dokume
 
 
 
-0. [Datenvorbereitung](https://github.com/tamedia-ddj/brennpunkt_bauernhof_public/blob/master/0_Data_Preparation.ipynb)
-1. Kürzungen
+1. [Datenvorbereitung](https://github.com/tamedia-ddj/brennpunkt_bauernhof_public/blob/master/0_Data_Preparation.ipynb)
+2. Kürzungen
 	* Methodik: [GitHub](https://github.com/tamedia-ddj/brennpunkt_bauernhof_public/blob/master/1_Kuerzungen.ipynb)
     * Artikel:
         * [Skandalöse Zustände auf Schweizer Bauernhöfen](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/skandaloese-zustaende-auf-schweizer-bauernhoefen/story/17687029)
         * [Sogar Tierquäler erhalten Subventionen](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/bauern-erhalten-subventionen-trotz-leidender-tiere/story/19918846)
+3. Kontrollen
+	* Artikel:
+		* [Die meisten Bauern sind vorgewarnt](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/zu-wenig-geld-fuer-tierkontrollen/story/12827795)
 
 
 Quelle des Datensatzes: BLW
