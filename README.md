@@ -55,7 +55,7 @@ In der Tabelle `cutbacks` werden auf Ebene der Gemeinde die Anzahl der Betriebe 
 
 Um die korrekten Gemeinden- und Kantons-Bezeichungen zu erhalten, wird für beide Tabelle die in Punk 1 erstellte Tabelle `clean_gde` herbeigezogen. Zudem wird eine Bereinigung der Gemeindenamen mit der Funktion `remove_kte()` durchgeführt. Damit werden konsistent alle Kantonsbezeichnungen aus dem Gemeindenamen entfernt.
 
-Beide Tabllen werden zur weiteren Bearbeitung als csv-Datei exportiert. 
+Beide Tabllen werden zur weiteren bearbeitung als csv-Datei exportiert. 
 
 
 
