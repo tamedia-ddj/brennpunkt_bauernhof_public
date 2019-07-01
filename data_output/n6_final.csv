@@ -1,0 +1,88 @@
+,GDE_NAME,KANTON,count_from250k,mean_from250k,GDE_CLEAN,mean_clean
+29,Unterstammheim,ZH,1.0,575455.0,Unterstammheim,575'455
+33,Bülach,ZH,1.0,339183.65,Bülach,339'184
+86,Meilen,ZH,1.0,265683.1,Meilen,265'683
+90,Fehraltorf,ZH,1.0,276768.1,Fehraltorf,276'768
+102,Uster,ZH,1.0,309370.65,Uster,309'371
+110,Ellikon an der Thur,ZH,1.0,324483.4,Ellikon an der Thur,324'483
+125,Zürich,ZH,1.0,293278.6,Zürich,293'279
+171,Zollikofen,BE,1.0,256542.61,Zollikofen,256'543
+227,Ins,BE,1.0,271133.54,Ins,271'134
+306,Corcelles (BE),BE,1.0,282294.23,Corcelles,282'294
+318,Schelten,BE,1.0,391759.11,Schelten,391'759
+515,Pfaffnau,LU,1.0,340196.0,Pfaffnau,340'196
+529,Flüelen,UR,1.0,275501.75,Flüelen,275'502
+546,Freienbach,SZ,1.0,261951.6,Freienbach,261'952
+594,Cham,ZG,1.0,262468.6,Cham,262'469
+596,Menzingen,ZG,1.0,284927.0,Menzingen,284'927
+605,Cugy (FR),FR,1.0,252308.6,Cugy,252'309
+704,St. Ursen,FR,1.0,259027.46,St. Ursen,259'027
+748,Metzerlen-Mariastein,SO,1.0,264172.99,Metzerlen-Mariastein,264'173
+764,Biberist,SO,1.0,294009.98,Biberist,294'010
+802,Aesch (BL),BL,1.0,309105.1,Aesch,309'105
+826,Anwil,BL,1.0,258378.25,Anwil,258'378
+929,Thal,SG,1.0,274731.6,Thal,274'732
+988,Surses,GR,4.0,304536.125,Surses,304'536
+991,Poschiavo,GR,1.0,270677.0,Poschiavo,270'677
+996,Vals,GR,2.0,273998.25,Vals,273'998
+1008,Domleschg,GR,1.0,289818.25,Domleschg,289'818
+1009,Avers,GR,1.0,265193.75,Avers,265'194
+1016,Zillis-Reischen,GR,1.0,278886.95,Zillis-Reischen,278'887
+1017,Rheinwald,GR,1.0,292495.7,Rheinwald,292'496
+1028,Valsot,GR,3.0,272046.7166666667,Valsot,272'047
+1035,Sils im Engadin/Segl,GR,1.0,257195.2,Sils im Engadin/Segl,257'195
+1057,Churwalden,GR,1.0,272844.6,Churwalden,272'845
+1103,Ehrendingen,AG,1.0,358757.95,Ehrendingen,358'758
+1261,Felben-Wellhausen,TG,1.0,377835.35,Felben-Wellhausen,377'835
+1314,Cadenazzo,TI,1.0,261808.15,Cadenazzo,261'808
+1318,Blenio,TI,1.0,256478.3,Blenio,256'478
+1330,Locarno,TI,1.0,404031.15,Locarno,404'031
+1341,Alto Malcantone,TI,1.0,277525.55,Alto Malcantone,277'526
+1357,Avegno Gordevio,TI,1.0,543796.7,Avegno Gordevio,543'797
+1384,Saint-Livres,VD,1.0,286336.7,Saint-Livres,286'337
+1400,Eclépens,VD,1.0,281641.55,Eclépens,281'642
+1406,Mont-la-Ville,VD,1.0,273931.9,Mont-la-Ville,273'932
+1407,Montricher,VD,1.0,310739.9,Montricher,310'740
+1419,Etagnières,VD,1.0,284804.6,Etagnières,284'805
+1429,Montilliez,VD,1.0,303466.1,Montilliez,303'466
+1432,Bullet,VD,1.0,269425.8,Bullet,269'426
+1442,Provence,VD,1.0,256335.2,Provence,256'335
+1451,Puidoux,VD,1.0,287150.2,Puidoux,287'150
+1499,Arnex-sur-Orbe,VD,1.0,284627.95,Arnex-sur-Orbe,284'628
+1505,Chavornay,VD,1.0,290036.5,Chavornay,290'036
+1520,Vulliens,VD,1.0,251966.95,Vulliens,251'967
+1540,Burtigny,VD,1.0,277040.6,Burtigny,277'041
+1548,Le Chenit,VD,1.0,266619.0,Le Chenit,266'619
+1550,Blonay,VD,1.0,276519.85,Blonay,276'520
+1562,Mathod,VD,1.0,286983.85,Mathod,286'984
+1574,Yverdon-les-Bains,VD,1.0,288490.85,Yverdon-les-Bains,288'491
+1587,Vétroz,VS,2.0,307857.775,Vétroz,307'858
+1588,Bagnes,VS,1.0,321876.85,Bagnes,321'877
+1601,Goms,VS,1.0,270568.2,Goms,270'568
+1605,Saint-Martin (VS),VS,2.0,282453.725,Saint-Martin,282'454
+1606,Vex,VS,1.0,283306.35,Vex,283'306
+1607,Mont-Noble,VS,1.0,261189.0,Mont-Noble,261'189
+1611,Leuk,VS,1.0,283751.0,Leuk,283'751
+1614,Salgesch,VS,1.0,335406.85,Salgesch,335'407
+1623,Martigny,VS,1.0,562774.85,Martigny,562'775
+1629,Collombey-Muraz,VS,2.0,270538.45,Collombey-Muraz,270'538
+1638,Riederalp,VS,1.0,283166.85,Riederalp,283'167
+1642,Eischoll,VS,1.0,270163.75,Eischoll,270'164
+1648,Mörel-Filet,VS,1.0,253467.1,Mörel-Filet,253'467
+1661,Lens,VS,1.0,344316.6,Lens,344'317
+1671,Savièse,VS,1.0,319401.1,Savièse,319'401
+1672,Sion,VS,1.0,418788.55,Sion,418'789
+1690,Zeneggen,VS,1.0,274724.35,Zeneggen,274'724
+1695,Milvignes,NE,1.0,251967.6,Milvignes,251'968
+1696,La Grande-Béroche,NE,1.0,256005.3,La Grande-Béroche,256'005
+1715,Val-de-Ruz,NE,1.0,279726.2,Val-de-Ruz,279'726
+1717,Les Verrières,NE,1.0,370465.15,Les Verrières,370'465
+1731,Presinge,GE,1.0,268224.7,Presinge,268'225
+1737,Bourrignon,JU,1.0,257569.0,Bourrignon,257'569
+1741,Courroux,JU,1.0,275073.2,Courroux,275'073
+1748,Pleigne,JU,1.0,327272.9,Pleigne,327'273
+1751,Haute-Sorne,JU,1.0,308261.85,Haute-Sorne,308'262
+1778,Fontenais,JU,1.0,263897.35,Fontenais,263'897
+1784,Clos du Doubs,JU,1.0,284685.6,Clos du Doubs,284'686
+1785,Haute-Ajoie,JU,1.0,251609.5,Haute-Ajoie,251'610
+1786,La Baroche,JU,1.0,274760.65,La Baroche,274'761

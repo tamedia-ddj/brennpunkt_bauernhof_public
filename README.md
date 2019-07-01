@@ -19,6 +19,8 @@ In den vorliegenden Notebooks sind die relevanten Ausschnitte der Analyse dokume
 3. Kontrollen
 	* Artikel:
 		* [Die meisten Bauern sind vorgewarnt](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/zu-wenig-geld-fuer-tierkontrollen/story/12827795)
+4. Direktzahlungsbeträge
+    * Methodik: [Github](https://github.com/tamedia-ddj/brennpunkt_bauernhof_public/blob/master/2_Betraege.ipynb)
 
 
 Quelle des Datensatzes: BLW
@@ -62,5 +64,34 @@ Beide Tabllen werden zur weiteren bearbeitung als csv-Datei exportiert.
 
 
 
+#### 3. Direktzahlungsbeträge
+Im Notebook *Direktzahlungsbeträge* dreht sich alles um die Verteilung der im Jahr 2017 insgesamt ausgezahlten 2,78 Milliarden Fr. Direktzahlungen. Im Zentrum steht die Erstellung zweier Tabellen zur späteren Visualisierung: `gd_dz_viz5` und `gd_dz_viz6`.
+
+Vorgängig wird eine manuell erstellte Tabelle importiert, die Betriebe beihaltet, die mehr als 250'000 Fr. Direktzahlungen erhalten, jedoch keine Betriebsgemeinschaften sind. Diese Betriebsgemeinschaften werden in den folgenden Auswertungen prizipiell ausgeschlossen. Dadurch sollen die Resultate nicht verfälscht werden. Diese Daten werden in `betriebe250k_official`zwischengespeichert und in den folgenden Output-Tabellen berücksichtigt.
+
+In `gd_dz_viz5` sind Kennzahlen über die Verteilung der Direktzahlungen auf Ebene der Gemeinde dokumentiert:
+
+Variable | Beschreibunng
+--- | --- 
+`GDE_NAME ` | Gemeindename
+`KANTON ` | Kantonskürzel
+`mean ` | Durchschnittliche Direktzahlung der jeweiligen Gemeinde
+`count_to50k ` | Anzahl Betriebe die weniger als 50'000 Fr. Direktzahlungen erhalten
+`count_50to150k ` | Anzahl Betriebe die zwischen 50'000 Fr. und 150'000 Fr. Direktzahlungen erhalten
+`count_150to250k ` | Anzahl Betriebe die zwischen 150'000 Fr. und 250'000 Fr. Direktzahlungen erhalten
+`count_from250k ` | Anzahl Betriebe die mehr als 250'000 Fr. Direktzahlungen erhalten
+`GDE_CLEAN ` | bereingter Gemeindename (ohne Kantonskürzel)
+`mean_clean ` | Durchschnittliche Direktzahlung der jeweiligen Gemeinde als String mit Tausender-Trennzeichen
+
+In der Tabelle `gd_dz_viz6` wechselt der Blick auf die Betriebe die mehr als 250'000 Fr. Direktzahlungen erhalte:
+
+Variable | Beschreibunng
+--- | --- 
+`GDE_NAME ` | Gemeindename
+`KANTON ` | Kantonskürzel
+`count_from250k ` | Anzahl Betriebe die mehr als 250'000 Fr. Direktzahlungen erhalten
+`mean_from250k ` | Durchschnittliche Direktzahlung der Unternehmen die mehr als 250'000 Fr. Direktzahlungen erhalten in der jeweiligen Gemeinde
+`GDE_CLEAN ` | bereingter Gemeindename (ohne Kantonskürzel)
+`mean_clean ` | Durchschnittliche Direktzahlung der jeweiligen Gemeinde als String mit Tausender-Trennzeichen
 
 
