@@ -18,9 +18,12 @@ In den vorliegenden Notebooks sind die relevanten Ausschnitte der Analyse dokume
         * [Sogar Tierquäler erhalten Subventionen](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/bauern-erhalten-subventionen-trotz-leidender-tiere/story/19918846)
 3. Kontrollen
 	* Artikel:
-		* [Die meisten Bauern sind vorgewarnt](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/zu-wenig-geld-fuer-tierkontrollen/story/12827795)
+		* [Zu wenig Kontrollen: Tierquäler bleiben unentdeckt](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/zu-wenig-geld-fuer-tierkontrollen/story/12827795)
+        * [Der Bauern-Sherlock](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/wie-ein-ermittler-mit-videobeweisen-landwirte-ueberfuehrt/story/16595684)
 4. Direktzahlungsbeträge
     * Methodik: [Github](https://github.com/tamedia-ddj/brennpunkt_bauernhof_public/blob/master/2_Betraege.ipynb)
+    * Artikel:
+        * [«Das war für uns wie ein Lottosechser»](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/welche-bauern-am-meisten-erhalten/story/25753875)
 
 
 Quelle des Datensatzes: BLW
@@ -83,7 +86,7 @@ Variable | Beschreibunng
 `GDE_CLEAN ` | bereingter Gemeindename (ohne Kantonskürzel)
 `mean_clean ` | Durchschnittliche Direktzahlung der jeweiligen Gemeinde als String mit Tausender-Trennzeichen
 
-In der Tabelle `gd_dz_viz6` wechselt der Blick auf die Betriebe die mehr als 250'000 Fr. Direktzahlungen erhalte:
+In der Tabelle `gd_dz_viz6` wechselt der Blick auf die Betriebe die mehr als 250'000 Fr. Direktzahlungen erhalten:
 
 Variable | Beschreibunng
 --- | --- 
