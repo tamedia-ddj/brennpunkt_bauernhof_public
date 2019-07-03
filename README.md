@@ -22,8 +22,9 @@ In den vorliegenden Notebooks sind die relevanten Ausschnitte der Analyse dokume
         * [Der Bauern-Sherlock](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/wie-ein-ermittler-mit-videobeweisen-landwirte-ueberfuehrt/story/16595684)
 4. Direktzahlungsbeträge
     * Methodik: [Github](https://github.com/tamedia-ddj/brennpunkt_bauernhof_public/blob/master/2_Betraege.ipynb)
-    * Artikel:
-        * [«Das war für uns wie ein Lottosechser»](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/welche-bauern-am-meisten-erhalten/story/25753875)
+    * Artikel: [«Das war für uns wie ein Lottosechser»](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/welche-bauern-am-meisten-erhalten/story/25753875)
+5. Interview
+	* Artikel: [«Beim Tierschutz gibt es keine Schmerzgrenze»](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/beim-tierschutz-gibt-es-keine-schmerzgrenze/story/20647149)
 
 
 Quelle des Datensatzes: BLW
