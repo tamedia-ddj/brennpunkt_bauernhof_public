@@ -25,6 +25,10 @@ In den vorliegenden Notebooks sind die relevanten Ausschnitte der Analyse dokume
     * Artikel: [«Das war für uns wie ein Lottosechser»](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/welche-bauern-am-meisten-erhalten/story/25753875)
 5. Interview
 	* Artikel: [«Beim Tierschutz gibt es keine Schmerzgrenze»](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/beim-tierschutz-gibt-es-keine-schmerzgrenze/story/20647149)
+6. Interaktiv
+    * Artikel: [Ein Leben lang trächtig und am Ende eine Wurst](https://interaktiv.tagesanzeiger.ch/2019/leben-einer-kuh/)
+7. Tiertransporte
+    * Artikel: [Die letzte Reise von Schwein Fanny](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/die-letzte-reise-von-schwein-fanny/story/14773958)
 
 
 Quelle des Datensatzes: BLW
