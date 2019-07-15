@@ -29,6 +29,10 @@ In den vorliegenden Notebooks sind die relevanten Ausschnitte der Analyse dokume
     * Artikel: [Ein Leben lang trächtig und am Ende eine Wurst](https://interaktiv.tagesanzeiger.ch/2019/leben-einer-kuh/)
 7. Tiertransporte
     * Artikel: [Die letzte Reise von Schwein Fanny](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/die-letzte-reise-von-schwein-fanny/story/14773958)
+8. Verendungen
+    * Artikel: [Zu krank für den Schlachthof](https://www.tagesanzeiger.ch/sonntagszeitung/zu-krank-fuer-den-schlachthof/story/28505215)
+9. Leitartikel
+    * Artikel: [Köpfe einschlagen bringt nichts](https://www.tagesanzeiger.ch/schweiz/brennpunkt-bauernhof/koepfe-einschlagen-bringt-nichts/story/26915768)
 
 
 Quelle des Datensatzes: BLW
